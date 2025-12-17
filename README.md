@@ -58,4 +58,3 @@ NcbiGeneParser(ncbi_id=None, find_gene_name=None, save_html_dir=None)
 ## 四、许可说明
 
 - 脚本不允许商业用途，仅可做科学研究使用
-- 脚本编写不易，测试了将近1周多的时间，转载请联系，谢谢合作！
